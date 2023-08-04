@@ -103,3 +103,5 @@ record: rosbag record -a -o recording.bag
 - Confiscated pointclouds on each other
 - Sparse 2D scan
 - Unexplored regions because of high inflation radius
+
+##### Disclaimer: Since this is a course project, the files have been hidden to eliminate any possibility of malpractice from future course attendees.
